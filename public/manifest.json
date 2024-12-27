@@ -1,0 +1,10 @@
+{
+    "short_name": "React app",
+    "name": "Create react app",
+    "start_url": ".",
+    "display": "stamdalone",
+    "theme_color": "#00000",
+    "backgrould_color": "#ffffff"
+
+
+}
